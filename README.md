@@ -2,9 +2,9 @@
 
 #### Video Demo: <URL HERE>
 
-#### Github Link: <URL HERE>
+#### Github Link: https://github.com/tomdijss/Storage_Manager
 
-#### Description:
+### Description:
 
 Welcome to Tom’s CS50 Final Project.
 
